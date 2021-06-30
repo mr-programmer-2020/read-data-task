@@ -20,12 +20,3 @@ class SiteController
 
 }
 
-/*
-
-echo "<pre>";
-print_r($jsonData);
-echo "</pre>";
-die();
-
- */
-
